@@ -1,0 +1,308 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+22 items
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\BankAccount$$anonfun$receive$1.class
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\BankAccount$.class
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\BankAccount$Balance$.class
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\BankAccount$Deposit$.class
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\BankAccount$Deposit.class
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\BankAccount$Done$.class
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\BankAccount$Failed$.class
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\BankAccount$WithDraw$.class
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\BankAccount$WithDraw.class
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\BankAccount.class
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\MainP$$anonfun$awaitingTransfer$1.class
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\MainP$$anonfun$receive$1.class
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\MainP.class
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\Transfer$$anonfun$awaitWithDrawal$1.class
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\Transfer$$anonfun$awiatDeposit$1.class
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\Transfer$$anonfun$receive$1.class
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\Transfer$.class
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\Transfer$Done$.class
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\Transfer$Failed$.class
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\Transfer$TransferMoney$.class
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\Transfer$TransferMoney.class
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\Transfer.class
+binary dependencies:
+9 items
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> C:\Program Files (x86)\Java\jre7\lib\rt.jar
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> C:\Users\KrazyKnight\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4-SNAPSHOT.jar
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> C:\Users\KrazyKnight\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> C:\Program Files (x86)\Java\jre7\lib\rt.jar
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> C:\Users\KrazyKnight\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4-SNAPSHOT.jar
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> C:\Users\KrazyKnight\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> C:\Program Files (x86)\Java\jre7\lib\rt.jar
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> C:\Users\KrazyKnight\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4-SNAPSHOT.jar
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> C:\Users\KrazyKnight\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+22 items
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> com.example.BankAccount
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> com.example.BankAccount$
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> com.example.BankAccount$$anonfun$receive$1
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> com.example.BankAccount$Balance$
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> com.example.BankAccount$Deposit
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> com.example.BankAccount$Deposit$
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> com.example.BankAccount$Done$
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> com.example.BankAccount$Failed$
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> com.example.BankAccount$WithDraw
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> com.example.BankAccount$WithDraw$
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> com.example.MainP
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> com.example.MainP$$anonfun$awaitingTransfer$1
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> com.example.MainP$$anonfun$receive$1
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> com.example.Transfer
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> com.example.Transfer$
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> com.example.Transfer$$anonfun$awaitWithDrawal$1
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> com.example.Transfer$$anonfun$awiatDeposit$1
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> com.example.Transfer$$anonfun$receive$1
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> com.example.Transfer$Done$
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> com.example.Transfer$Failed$
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> com.example.Transfer$TransferMoney
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> com.example.Transfer$TransferMoney$
+used names:
+146 items
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> !
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> &&
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> +
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> -
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> <init>
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> ==
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> >
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> >=
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> A1
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> AbstractFunction1
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> Actor
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> AnyRef
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> B1
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> Balance
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> BankAccount
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> BigInt
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> Deposit
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> Done
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> Failed
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> Function1
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> None
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> Product
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> ScalaRunTime
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> Serializable
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> WithDraw
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> _hashCode
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> _toString
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> actor
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> actorRef2Scala
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> akka
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> amount
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> apply
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> asInstanceOf
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> balance
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> balance_=
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> com
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> eq
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> example
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> int2bigInt
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> isInstanceOf
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> math
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> package
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> runtime
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> scala
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> self
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> sender
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> toString
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> typedProductIterator
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> unchecked
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> ||
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> !
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> <init>
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> ==
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> A1
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> Actor
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> B1
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> BankAccount
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> BigInt
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> ClassTag
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> Done
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> Failed
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> Function1
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> MainP
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> Predef
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> Props
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> Receive
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> Transfer
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> actor
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> actorOf
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> actorRef2Scala
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> akka
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> amount
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> apply
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> asInstanceOf
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> awaitingTransfer
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> become
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> com
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> context
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> example
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> from
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> int2bigInt
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> materializeClassTag
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> math
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> package
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> println
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> scala
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> self
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> stop
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> to
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> transaction
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> transfer
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> unchecked
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> !
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> &&
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> <init>
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> ==
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> A1
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> AbstractFunction3
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> Actor
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> ActorRef
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> AnyRef
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> B1
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> BankAccount
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> BigInt
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> Deposit
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> Done
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> Failed
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> Function1
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> None
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> Predef
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> Product
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> Receive
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> ScalaRunTime
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> Serializable
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> Transfer
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> TransferMoney
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> WithDraw
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> _hashCode
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> _toString
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> actor
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> actorRef2Scala
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> akka
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> amount
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> apply
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> asInstanceOf
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> awaitWithDrawal
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> awiatDeposit
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> become
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> com
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> context
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> eq
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> example
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> from
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> isInstanceOf
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> ne
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> package
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> println
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> runtime
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> scala
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> self
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> sender
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> to
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> toString
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> typedProductIterator
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> unchecked
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> ||
+product stamps:
+22 items
+C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\BankAccount$$anonfun$receive$1.class -> lastModified(1440329185082)
+C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\BankAccount$.class -> lastModified(1440329185040)
+C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\BankAccount$Balance$.class -> lastModified(1440329185087)
+C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\BankAccount$Deposit$.class -> lastModified(1440329185091)
+C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\BankAccount$Deposit.class -> lastModified(1440329185098)
+C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\BankAccount$Done$.class -> lastModified(1440329185102)
+C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\BankAccount$Failed$.class -> lastModified(1440329185106)
+C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\BankAccount$WithDraw$.class -> lastModified(1440329185116)
+C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\BankAccount$WithDraw.class -> lastModified(1440329185112)
+C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\BankAccount.class -> lastModified(1440329185070)
+C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\MainP$$anonfun$awaitingTransfer$1.class -> lastModified(1440329185131)
+C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\MainP$$anonfun$receive$1.class -> lastModified(1440329185135)
+C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\MainP.class -> lastModified(1440329185127)
+C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\Transfer$$anonfun$awaitWithDrawal$1.class -> lastModified(1440329185149)
+C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\Transfer$$anonfun$awiatDeposit$1.class -> lastModified(1440329185153)
+C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\Transfer$$anonfun$receive$1.class -> lastModified(1440329185157)
+C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\Transfer$.class -> lastModified(1440329185144)
+C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\Transfer$Done$.class -> lastModified(1440329185161)
+C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\Transfer$Failed$.class -> lastModified(1440329185164)
+C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\Transfer$TransferMoney$.class -> lastModified(1440329185168)
+C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\Transfer$TransferMoney.class -> lastModified(1440329185175)
+C:\Users\KrazyKnight\backend_workspace\BankAccount\target\scala-2.11\classes\com\example\Transfer.class -> lastModified(1440329185143)
+source stamps:
+3 items
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> hash(a2380a97ec312e293056e744b1d53249eb69da39)
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> hash(b0ce7e3f514c50eb446d4a9f037ce78e65f75314)
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> hash(bfd2ea9bcaeddb437f3f7d8d94b93a5363bd9f52)
+binary stamps:
+3 items
+C:\Program Files (x86)\Java\jre7\lib\rt.jar -> lastModified(1402800254307)
+C:\Users\KrazyKnight\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4-SNAPSHOT.jar -> lastModified(1440191026000)
+C:\Users\KrazyKnight\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+3 items
+C:\Program Files (x86)\Java\jre7\lib\rt.jar -> java.lang.Object
+C:\Users\KrazyKnight\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4-SNAPSHOT.jar -> akka.actor.Actor
+C:\Users\KrazyKnight\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> scala.runtime.AbstractFunction3
+internal apis:
+3 items
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB6pPtUAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwpfqV6nQABHNlbGZzcQB+AAuRKJ4bdAAHY29udGV4dHVxAH4ACQAAADZzcQB+AAuGTqzWdAAGbm90aWZ5c3EAfgALOzT3u3QAB0JhbGFuY2VzcQB+AAuW0kWydAAHdW5hcHBseXNxAH4ACwkzFUd0AAtCYW5rQWNjb3VudHNxAH4AC3L38rp0AAdSZWNlaXZlc3EAfgALNfaaL3QABHdhaXRzcQB+AAvq7VT/dAANJGFzSW5zdGFuY2VPZnNxAH4AC9rhesF0AAdjb21wb3Nlc3EAfgALYfzbxHQADHByb2R1Y3RBcml0eXNxAH4AC6tFvkd0AAZlcXVhbHNzcQB+AAvauQfgdAAMYXNJbnN0YW5jZU9mc3EAfgALrhBeFXQADHN5bmNocm9uaXplZHNxAH4AC3nstMB0AAdEZXBvc2l0c3EAfgALIlztAnQADSRpc0luc3RhbmNlT2ZzcQB+AAurQoX8dAAHYW5kVGhlbnNxAH4ACwdECkZ0AAdyZWNlaXZlc3EAfgALK5iU3nQACnByZVJlc3RhcnRzcQB+AAsWvRXkdAANYXJvdW5kUmVjZWl2ZXNxAH4AC3nztot0AAhjYW5FcXVhbHNxAH4AC7M7Z3t0AAdiYWxhbmNlc3EAfgALk/rihXQAC3Bvc3RSZXN0YXJ0c3EAfgALyo1o5nQACHBvc3RTdG9wc3EAfgALMdN9/XQADXByb2R1Y3RQcmVmaXhzcQB+AAtBxYKhdAAJbm90aWZ5QWxsc3EAfgALToR/KnQAC3JlYWRSZXNvbHZlc3EAfgALHxo1B3QABmFtb3VudHNxAH4AC7qvJ/Z0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC9/nA+90AAREb25lc3EAfgAL/m7abnQADGlzSW5zdGFuY2VPZnNxAH4AC+OK1gN0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALiOSCFHQADmFyb3VuZFBvc3RTdG9wc3EAfgALkxEj1nQABjxpbml0PnNxAH4AC8K0GM10AAhwcmVTdGFydHNxAH4AC7YzpyJ0AAl1bmhhbmRsZWRzcQB+AAv5OQ4hdAAFYXBwbHlzcQB+AAvjnKkkdAACPT1zcQB+AAvMOIA8dAAFY2xvbmVzcQB+AAtQEAzxdAAEY29weXNxAH4AC51zIWp0AAZzZW5kZXJzcQB+AAsQK5R9dAAIdG9TdHJpbmdzcQB+AAtwPJZVdAACIT1zcQB+AAttvE8ydAAIZ2V0Q2xhc3NzcQB+AAsX6OfddAAOY29weSRkZWZhdWx0JDFzcQB+AAum1uyTdAAGRmFpbGVkc3EAfgALBc49RXQAAm5lc3EAfgALNMzAR3QACFdpdGhEcmF3c3EAfgALiLsdJnQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC97w44p0AAJlcXNxAH4AC92+Te50AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAvZ7GrVdAACIyNzcQB+AAviCXPHdAAIZmluYWxpemVzcQB+AAsVzX1hdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAvNpD7cdAAIaGFzaENvZGVzcQB+AAv7XgZDdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCHeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAXY29tLmV4YW1wbGUuQmFua0FjY291bnR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGE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
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAYM4rYAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwuBhIqnQABHNlbGZzcQB+AAt2u4x+dAAHY29udGV4dHVxAH4ACQAAACdzcQB+AAvqvm5SdAAGbm90aWZ5c3EAfgAL3jvDNXQAB1JlY2VpdmVzcQB+AAvGTEhOdAAFTWFpblBzcQB+AAsjVaj5dAAEd2FpdHNxAH4AC3MfXyV0AA0kYXNJbnN0YW5jZU9mc3EAfgALv+wHmHQABmVxdWFsc3NxAH4AC88OEVp0AAxhc0luc3RhbmNlT2ZzcQB+AAve6SuFdAAMc3luY2hyb25pemVkc3EAfgALDo4ZwnQADSRpc0luc3RhbmNlT2ZzcQB+AAuexdX7dAAHcmVjZWl2ZXNxAH4ACyV3TGJ0AApwcmVSZXN0YXJ0c3EAfgALppNoRXQADWFyb3VuZFJlY2VpdmVzcQB+AAt+ioO9dAALcG9zdFJlc3RhcnRzcQB+AAvxaLokdAAIcG9zdFN0b3BzcQB+AAtVKx6XdAAJbm90aWZ5QWxsc3EAfgALjcJcU3QAAnRvc3EAfgALXcef/3QAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALd3i7XnQADGlzSW5zdGFuY2VPZnNxAH4ACy0YdL90ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALxES7F3QADmFyb3VuZFBvc3RTdG9wc3EAfgALMilfMHQABjxpbml0PnNxAH4AC0XFdqN0AAhwcmVTdGFydHNxAH4ACyKmmP10AAl1bmhhbmRsZWRzcQB+AAsjmZl6dAAIdHJhbnNmZXJzcQB+AAsvcUz4dAACPT1zcQB+AAts2h0YdAAFY2xvbmVzcQB+AAtjhw0kdAAEZnJvbXNxAH4AC5B+4Ud0AAZzZW5kZXJzcQB+AAuhLedXdAAIdG9TdHJpbmdzcQB+AAsMPyYJdAACIT1zcQB+AAt9CqatdAAIZ2V0Q2xhc3NzcQB+AAtENsl5dAACbmVzcQB+AAsuXai1dAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALAAmnv3QAAmVxc3EAfgALLOOmF3QAEGF3YWl0aW5nVHJhbnNmZXJzcQB+AAvakqXPdAACIyNzcQB+AAtN3d8LdAAIZmluYWxpemVzcQB+AAvjx/t2dAAIaGFzaENvZGVzcQB+AAvjV1h+dAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBpeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAARY29tLmV4YW1wbGUuTWFpblB1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AIJ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AIEAcHNxAH4AhnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBpTAAJaW5oZXJpdGVkcQB+AGlMAAdwYXJlbnRzcQB+AGl4cQB+AIpzcQB+AIEAcHNxAH4AhnVxAH4AZAAAAABzcQB+AIEAcHNxAH4AhnVxAH4AZAAAAABzcQB+AIEAcHNxAH4AhnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AiXQABUFjdG9yc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCJc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgCmdAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ap3NxAH4AmnQABk9iamVjdHNxAH4AnnNxAH4AoXVxAH4ApAAAAANzcQB+AKZ0AARqYXZhc3EAfgCmdAAEbGFuZ3EAfgCtc3EAfgCadAADQW55c3EAfgCec3EAfgChdXEAfgCkAAAAAnNxAH4ApnQABXNjYWxhcQB+AK11cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAtjb20uZXhhbXBsZXNxAH4AwHQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1pPJtR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABMQzpcVXNlcnNcS3JhenlLbmlnaHRcYmFja2VuZF93b3Jrc3BhY2VcQmFua0FjY291bnRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLDOfj9RTFDrRG1KnwN8545l91MU
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBFMkioAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwrPvCEnQABHNlbGZzcQB+AAtIUIYsdAAHY29udGV4dHVxAH4ACQAAADlzcQB+AAtHSWuxdAAGbm90aWZ5c3EAfgALxWMfE3QAB3VuYXBwbHlzcQB+AAsuOyDEdAAHY3VycmllZHNxAH4AC6A99UB0AAdSZWNlaXZlc3EAfgAL3tkb0nQABHdhaXRzcQB+AAuM6Zz5dAAOY29weSRkZWZhdWx0JDJzcQB+AAv3OsO0dAANJGFzSW5zdGFuY2VPZnNxAH4AC/oPnBF0AAxwcm9kdWN0QXJpdHlzcQB+AAttlFJvdAAGZXF1YWxzc3EAfgALno/x3HQADGFzSW5zdGFuY2VPZnNxAH4AC+yDtPp0AA1UcmFuc2Zlck1vbmV5c3EAfgALOv7Rf3QAD2F3YWl0V2l0aERyYXdhbHNxAH4AC1KT3A10AAxzeW5jaHJvbml6ZWRzcQB+AAtsaTdxdAANJGlzSW5zdGFuY2VPZnNxAH4AC2FbOgB0AAdyZWNlaXZlc3EAfgALeuVIznQACnByZVJlc3RhcnRzcQB+AAtnhmSsdAAGdHVwbGVkc3EAfgALfh7C73QADWFyb3VuZFJlY2VpdmVzcQB+AAunggTpdAAIY2FuRXF1YWxzcQB+AAuC9jlIdAALcG9zdFJlc3RhcnRzcQB+AAsAWxEydAAIcG9zdFN0b3BzcQB+AAvdE65mdAANcHJvZHVjdFByZWZpeHNxAH4AC9ir+9N0AAlub3RpZnlBbGxzcQB+AAsnWAzodAAMYXdpYXREZXBvc2l0c3EAfgAL8yMN63QAC3JlYWRSZXNvbHZlc3EAfgALIcUS93QABmFtb3VudHNxAH4AC2XDqTJ0AAJ0b3NxAH4AC7+8SUV0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4ACyMh1K10AAREb25lc3EAfgAL/jm8HXQADGlzSW5zdGFuY2VPZnNxAH4ACz1e44l0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALFAXbgXQADmFyb3VuZFBvc3RTdG9wc3EAfgALNoBll3QABjxpbml0PnNxAH4AC7VUyep0AAhwcmVTdGFydHNxAH4AC5LoWBd0AAl1bmhhbmRsZWRzcQB+AAuyCXqhdAAFYXBwbHlzcQB+AAs5dD7VdAACPT1zcQB+AAvgpGH6dAAFY2xvbmVzcQB+AAsYuLc1dAAEZnJvbXNxAH4AC5S1kup0AAhUcmFuc2ZlcnNxAH4AC4qOaS90AA5jb3B5JGRlZmF1bHQkM3NxAH4AC7gvQkV0AARjb3B5c3EAfgALTSlRdHQABnNlbmRlcnNxAH4AC81pptN0AAh0b1N0cmluZ3NxAH4AC2ZUVAN0AAIhPXNxAH4AC7ImtKt0AAhnZXRDbGFzc3NxAH4AC3AU2xp0AA5jb3B5JGRlZmF1bHQkMXNxAH4ACzR3hJ10AAZGYWlsZWRzcQB+AAvNpQwtdAACbmVzcQB+AAt4lH8/dAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALy0RJBXQAAmVxc3EAfgALxAYEfnQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC+T4nN10AAIjI3NxAH4AC6764nd0AAhmaW5hbGl6ZXNxAH4ACz0Fgkt0AA5wcm9kdWN0RWxlbWVudHNxAH4AC0sKajV0AAhoYXNoQ29kZXNxAH4AC1p/gI50AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AI14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABRjb20uZXhhbXBsZS5UcmFuc2ZlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Apnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ApQBwc3EAfgCqc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AI1MAAlpbmhlcml0ZWRxAH4AjUwAB3BhcmVudHNxAH4AjXhxAH4ArnNxAH4ApQBwc3EAfgCqdXEAfgCIAAAAAHNxAH4ApQBwc3EAfgCqdXEAfgCIAAAAAHNxAH4ApQBwc3EAfgCqdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCtdAAFQWN0b3JzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AK1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AMp0AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDLc3EAfgC+dAAGT2JqZWN0c3EAfgDCc3EAfgDFdXEAfgDIAAAAA3NxAH4AynQABGphdmFzcQB+AMp0AARsYW5ncQB+ANFzcQB+AL50AANBbnlzcQB+AMJzcQB+AMV1cQB+AMgAAAACc3EAfgDKdAAFc2NhbGFxAH4A0XNxAH4AinEAfgCXdXEAfgCYAAAAAHNxAH4AmgB0ABRjb20uZXhhbXBsZS5UcmFuc2ZlcnVxAH4AnQAAAAB+cQB+AJ90AAZNb2R1bGV1cQB+AKMAAAAAc3EAfgClAHBzcQB+AKpxAH4Ar3NxAH4ApQBwc3EAfgCqc3EAfgCyc3EAfgClAHBzcQB+AKp1cQB+AIgAAAAAc3EAfgClAHBzcQB+AKp1cQB+AIgAAAAAc3EAfgClAHBzcQB+AKp1cQB+ALwAAAACc3EAfgC+cQB+ANNzcQB+AMJzcQB+AMV1cQB+AMgAAAADc3EAfgDKcQB+ANhzcQB+AMpxAH4A2nEAfgDRc3EAfgC+cQB+ANxzcQB+AMJzcQB+AMV1cQB+AMgAAAACc3EAfgDKcQB+AOFxAH4A0XVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAC2NvbS5leGFtcGxlc3EAfgEFdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFPWk8m1HVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AExDOlxVc2Vyc1xLcmF6eUtuaWdodFxiYWNrZW5kX3dvcmtzcGFjZVxCYW5rQWNjb3VudFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUv9Lqm8rt20N/P32NlLk6U2O9n1I=
+external apis:
+0 items
+source infos:
+3 items
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\BankAccount.scala -> 
+AAAAAAAAAAA=
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\MainP.scala -> 
+AAAAAAAAAAA=
+C:\Users\KrazyKnight\backend_workspace\BankAccount\src\main\scala\com\example\Transfer.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1ngdnZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATEM6XFVzZXJzXEtyYXp5S25pZ2h0XGJhY2tlbmRfd29ya3NwYWNlXEJhbmtBY2NvdW50XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1pIMO11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATEM6XFVzZXJzXEtyYXp5S25pZ2h0XGJhY2tlbmRfd29ya3NwYWNlXEJhbmtBY2NvdW50XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1pPJtR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATEM6XFVzZXJzXEtyYXp5S25pZ2h0XGJhY2tlbmRfd29ya3NwYWNlXEJhbmtBY2NvdW50XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
